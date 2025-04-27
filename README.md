@@ -27,6 +27,7 @@ Colab üzerinde çalıştırılmış ve temel kütüphaneler kullanılarak bir g
 ## 📷 Çıktılar
 - Görsel üzerindeki tahmin sonuçları başarıyla alınmıştır.
 - Örnek çıktı: ("Kedi", %95 doğruluk)
+- Aslan %99 doğruluk
   
 ## Dikkat
 - Dosya yollarına dikkat ederek çalıştırınız.
